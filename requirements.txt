@@ -1,0 +1,9 @@
+# requirements.txt
+# 项目依赖列表
+
+# 本项目仅使用Python标准库，无需额外安装依赖
+# GUI库：tkinter (Python标准库)
+# 网络编程：socket (Python标准库)
+# 数据处理：json (Python标准库)
+# 多线程：threading (Python标准库)
+# 系统接口：os, sys (Python标准库)
